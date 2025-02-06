@@ -4,4 +4,4 @@ Aquí encontrará los productos resultantes de las actividades de la materia Ret
 ## Integrantes de grupo
 - Claudia Vanessa Rangel Acosta - 2220665
 - Juan David Verano Ramírez - 2221093
--
+- Christopher André Sanguino Siza - 2220533

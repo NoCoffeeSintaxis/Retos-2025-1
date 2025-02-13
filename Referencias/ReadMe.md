@@ -7,3 +7,4 @@ Referencias:
 3.  [Pozo Gravitacional: Modelo de la lámina elástica](https://es.wikipedia.org/wiki/Pozo_gravitatorio#El_modelo_de_la_l%C3%A1mina_el%C3%A1stica)
 4.  [Reel: Ahora si vas a entender la gravedad - DoctorFision](https://www.youtube.com/shorts/-aSM9S4Rwkg?feature=share)
 5.  [La Nueva Mente del Emperador - Capítulo 5 - Pág 183 : Relatividad General De Einstein](https://www.cs.buap.mx/~jitalo/libros/lanueva.pdf)
+6.  [Variational Principles in Classical Mechanics - Douglas Cline - Section 5.10: Geodesic](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB5PXzm8GLAxVmTTABHcViBEQQFnoECDcQAQ&url=https%3A%2F%2Fbatch.libretexts.org%2Fprint%2FLetter%2FFinished%2Fphys-9557%2FFull.pdf&usg=AOvVaw1AqodcCvS9KYd88n1lghuF&opi=89978449)

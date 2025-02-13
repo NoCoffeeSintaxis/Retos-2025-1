@@ -1,4 +1,4 @@
-Este directorio albergará los códigos desarrollados durante el curso como parte de las tareas y asignaciones
+Aquí encontrará las referencias usadas para desarollar tanto el experimento como la teoría.
 
 Referencias: 
 

@@ -4,7 +4,7 @@ En esta carpeta encontrarás los códigos utilizados para la simulación de la d
 
 ## Descripción de los Códigos
 
-- **[Simulación de la Tela - Ecuación de Poisson](Codigos de simulación/2025-03-20 Simulación de la tela - Ecuación de Poisson.ipynb):**  
+- **[Simulación de la Tela - Ecuación de Poisson](https://github.com/NoCoffeeSintaxis/Retos-2025-1/blob/680af29b076d1fc1c7b3c921aa1bed17b50933c8/Codigos%20de%20simulaci%C3%B3n/2025-03-20%20Simulaci%C3%B3n%20de%20la%20tela%20-%20Ecuaci%C3%B3n%20de%20Poisson.ipynb)):**  
   Este archivo contiene el planteamiento y la solución numérica de la ecuación de Poisson, una de las ecuaciones más fundamentales para describir la deformación de una lámina elástica bajo carga. La simulación se centra en modelar el comportamiento de la tela utilizando esta aproximación.
   
 - **[Modelado de Perfil con Datos Experimentales](Codigos de simulación/2025-03-31 Modelado del perfil con Datos Experimentales.py):**  

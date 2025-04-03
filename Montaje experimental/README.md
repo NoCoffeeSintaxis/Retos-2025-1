@@ -7,5 +7,8 @@ En este directorio se ofrece una descripción detallada de los montajes experime
 - **[2025-03-13 Primer acercamiento al montaje](https://github.com/NoCoffeeSintaxis/Retos-2025-1/tree/main/Montaje%20experimental/2025-03-13):**  
   En la primera sesión en el laboratorio, se obtuvieron los materiales necesarios para realizar el montaje básico, incluyendo tela, sujetadores y masas. Sin embargo, en ese momento aún no disponíamos de las herramientas necesarias para iniciar el proceso de medición. Quedó pendiente la adquisición de los implementos requeridos para poder llevar a cabo las mediciones.
 
-- **[2025-03-21 Primera medición del perfil]()**  
+- **[2025-03-26 Primera aproximación al método de medición](https://github.com/NoCoffeeSintaxis/Retos-2025-1/tree/main/Montaje%20experimental/2025-03-26):**  
+  En esta sesión, discutimos la mejor manera de realizar el perfil necesario para nuestras mediciones. Evaluamos varios métodos, pero enfrentamos algunos inconvenientes durante el primer montaje. Debido a la falta de tiempo, no logramos obtener mediciones precisas. Estas se llevarán a cabo en una próxima sesión.
+
+- **[2025-03-21 Primera medición del perfil](https://github.com/NoCoffeeSintaxis/Retos-2025-1/tree/main/Montaje%20experimental/2025-03-28)**  
   En esta sesión se realizó la primera medición del perfil de la tela. Se instalaron dos soportes en los extremos del soporte de la tela con el fin de colocar una varilla que facilitara la medición de la distancia entre el plano descrito por la varilla y la tela, ya deformada por la carga de la masa. Posteriormente, se realizó un tratamiento de los datos, restando las mediciones obtenidas de la distancia máxima, con el objetivo de calcular la deformación vertical de la tela en relación con su máxima deformación. Se obtuvo un retazo de la tela de 20x20 centímetros con la finalidad de realizar una caracterización de la tela utilizada en este experimento.

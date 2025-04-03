@@ -7,6 +7,8 @@ Con una tela elástica contruya un ambiente que reproduzca la deformación del e
 
 También encontrará los diferentes códigos, documentos, y demás cosas que se utilizaron en esta labor.
 
+Para seguir el proceso de este trabajo, se recomienda revisar detenidamente la carpeta "Montaje Experimental", donde encontrará imágenes y explicaciones detalladas sobre los avances y resultados de cada sesión.
+
 ## Integrantes de grupo
 - Claudia Vanessa Rangel Acosta - 2220665
 - Juan David Verano Ramírez - 2221093
